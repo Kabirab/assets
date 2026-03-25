@@ -7,5 +7,18 @@
   "symbol": "REBBE47",
   "decimals": 18,
   "status": "active",
-  "id": "0x92b49accc1c13b0d55e6398D6B482a195ee24C9b"
+  "id": "0x92b49accc1c13b0d55e6398D6B482a195ee24C9b",
+
+  "links": [
+    {
+      "name": "website",
+      "url": "https://rebbe47.info"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/rebbe47"
+    }
+  ],
+
+  "tags": ["meme", "community"]
 }
